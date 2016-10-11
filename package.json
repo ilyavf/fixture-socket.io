@@ -1,0 +1,22 @@
+{
+  "name": "fixture-socketio",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bitovi",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.5.0",
+    "socket.io-client": "^1.5.0"
+  },
+  "devDependencies": {
+    "steal": "^0.16.39",
+    "steal-qunit": "^0.1.4"
+  }
+}
